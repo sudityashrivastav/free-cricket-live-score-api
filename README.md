@@ -27,3 +27,8 @@ Elevate your cricket-watching experience with the Cricket Live Score API, a powe
 ## Usage
 
 To integrate our Cricket Live Score API into your application, you can visit our API documentation on RapidAPI. Click [here](https://www.rapidapi.com/your-api-link) to access the API and get started.
+
+## Contact
+
+1. [**Email:** sudityakumar1@gmail.com](mailto:sudityakumar1@gmail.com)
+2. [**Phone:** +917408157036](+917408157036)
