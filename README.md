@@ -1,4 +1,7 @@
-# FREE Cricket Live Score API
+<p align="center">
+<img width="400" height="400" alt="logo" src="https://github.com/sudityashrivastav/free-cricket-live-score-api/assets/96390435/b6674197-bd74-42d1-add9-91166192f871" />
+<h1 align="center"> FREE Cricket Live Score API</h1>
+</p>
 
 Elevate your cricket-watching experience with the Cricket Live Score API, a powerful tool that provides real-time live scores for a wide range of cricket matches, including iconic tournaments such as the ICC World Cup, IPL, Big Bash League, and the Caribbean Premier League, among many others. Whether you're a die-hard cricket enthusiast or a casual fan, our API is the ultimate resource for staying updated with the latest cricket action.
 
@@ -26,7 +29,7 @@ Elevate your cricket-watching experience with the Cricket Live Score API, a powe
 
 ## Usage
 
-To integrate our Cricket Live Score API into your application, you can visit our API documentation on RapidAPI(https://rapidapi.com/sudityakumar1/api/free-cricket-live-score). Click [here](https://rapidapi.com/sudityakumar1/api/free-cricket-live-score) to access the API and get started.
+To integrate our Cricket Live Score API into your application, you can visit our API documentation on [RapidAPI](https://rapidapi.com/sudityakumar1/api/free-cricket-live-score1). Click [here](https://rapidapi.com/sudityakumar1/api/free-cricket-live-score1) to access the API and get started.
 
 ## Contact
 
